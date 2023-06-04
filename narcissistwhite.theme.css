@@ -1,5 +1,5 @@
 /**
- * @name narcissist white
+ * @name theme white
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,11 +12,11 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #2E2E2E;
-  --hover-color: #000000;
+  --main-color: #6D6D6D;
+  --hover-color: #717171;
   --success-color: #43b581;
   --danger-color: #982929;
-  --url-color: var(--main-color);
+  --url-color: #FFFFFF;
   --background-image: url('https://i.imgur.com/9Gza1iL.jpg');
   --background-shading: 100%;
   --background-position: center;
@@ -41,12 +41,12 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-image: url('https://i.imgur.com/ENMTvq9.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
-  --user-modal-repeat: no-repeat;
-  --user-modal-attachment: fixed;
-  --user-modal-brightness: 100%;
+  --user-modal-repeat: repeat;
+  --user-modal-attachment: scroll;
+  --user-modal-brightness: 300%;
   --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
