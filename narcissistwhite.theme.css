@@ -30,7 +30,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.imgur.com/uWPZCy7.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -40,7 +40,7 @@
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 8px;
   --user-modal-image: url('https://i.imgur.com/ENMTvq9.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
